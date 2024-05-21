@@ -89,6 +89,7 @@ public class Application extends Canvas implements Runnable {
 		
 	}
 	
+	//Sets up the program before the main loop executes
 	public void initializeProgram() {
 		addKeyListener(new KeyInput(this));
 		
