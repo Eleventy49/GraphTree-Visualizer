@@ -124,6 +124,7 @@ public class Application extends Canvas implements Runnable {
 		
 	}
 	
+	//An additional comment
 	public void start() {
 		if (running)
 			return;
